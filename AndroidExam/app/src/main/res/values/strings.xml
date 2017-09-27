@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Exam</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="first_name">First Name : </string>
+    <string name="last_name">Last Name : </string>
+    <string name="birthday">Birthday : </string>
+    <string name="age">Age : </string>
+    <string name="email_address">Email Address : </string>
+    <string name="mobile_number">Mobile Number : </string>
+    <string name="address">Address : </string>
+    <string name="contact_person">Contact person : </string>
+    <string name="contact_persons_contact_number">Contact person\'s contact number : </string>
+
+</resources>
